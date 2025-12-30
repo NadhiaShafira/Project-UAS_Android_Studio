@@ -109,7 +109,7 @@ Fungsi:
 
 **4. UI (User Interface) Project**
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/03fd6029052a743473529821364b9b022efc022a/pict_project/UI.png)
 
 **5. UX (User Experience) VIDEO PROTOTYPE Project**
 
