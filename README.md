@@ -109,7 +109,7 @@ Fungsi:
 
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/71aa9f8502c3725322d12f85433e105058fed81e/pict_project/Splash_Jepang.png)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/26bf634d7825977bd0989a2b71e5ec3284a9c4e3/pict_project/Splash_Korea.png)
 
 **3. Mockup Project**
 
