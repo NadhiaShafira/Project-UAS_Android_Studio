@@ -14,5 +14,110 @@
 
 # TUGAS UAS
 
+```Aplikasi Sleep Time adalah aplikasi pengingat dan pengatur waktu tidur yang membantu pengguna membangun kebiasaan tidur yang teratur. Berdasarkan storyboard, aplikasi ini memiliki beberapa fitur utama sebagai berikut:
+```
+
 **1. StoryBoard**
 
+
+
+# 1. Halaman Utama (Home / Splash Screen)
+
+- Pada halaman awal, aplikasi menampilkan:
+
+- Judul aplikasi “Sleep Time”
+
+- Deskripsi singkat: your bedtime beautifully managed
+
+- Tampilan sederhana sebagai identitas aplikasi
+
+Fungsi halaman ini adalah sebagai halaman pembuka sebelum pengguna masuk ke fitur utama aplikasi.
+
+# 2. Halaman Selamat Datang
+
+Halaman ini berisi teks “Selamat Datang” sebagai transisi awal pengguna sebelum menggunakan fitur aplikasi.
+
+Fungsi:
+
+- Memberikan kesan awal yang ramah kepada pengguna
+
+- Mengarahkan pengguna ke menu selanjutnya
+
+# 3. Fitur Pengingat Tidur
+
+Pada halaman ini, pengguna akan melihat:
+
+- Ikon lonceng (sebagai simbol notifikasi)
+
+- Teks “Pengingat Tidur”
+
+- Pesan “Waktunya tidur!”
+
+- Tombol “Mulai Tidur”
+
+Fungsi utama:
+
+- Mengaktifkan pengingat tidur
+
+- Memberi notifikasi ketika waktu tidur telah tiba
+
+# 4. Fitur Jadwal Tidur
+
+Halaman ini digunakan untuk mengatur jam tidur dan jam bangun.
+
+Komponen yang tersedia:
+
+- Pilihan waktu tidur (contoh: 10.00 PM)
+
+- Pilihan waktu bangun (contoh: 05.00 AM)
+
+- Keterangan “Pilih waktu yang kamu inginkan”
+
+Fungsi:
+
+- Pengguna dapat menentukan jadwal tidur sesuai kebiasaan
+
+- Data waktu ini akan digunakan sebagai acuan pengingat tidur
+
+# 5. Halaman Proses Tidur / Status Tidur
+
+Setelah jadwal ditentukan dan tombol mulai ditekan, aplikasi menampilkan:
+
+- Jam atau indikator waktu tidur
+
+- Rentang waktu tidur (misalnya: 10.00 PM – 05.00 AM)
+
+- Pesan “Waktunya istirahat!”
+
+- Tombol “Sudah Selesai”
+
+Fungsi:
+
+- Menampilkan status bahwa mode tidur sedang aktif
+
+- Memberi informasi durasi tidur
+
+- Mengakhiri sesi tidur saat pengguna bangun
+
+**2. Splash Screen**
+
+(Deteksi location, Bendera, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
+
+**3. Mockup Project**
+
+![foto]()
+
+**4. UI (User Interface) Project**
+
+![foto]()
+
+**5. UX (User Experience) VIDEO PROTOTYPE Project**
+
+**6. Implementasi di Android Studio**
+
+**7. Membuat notifikasi di firebase**
+![foto]()
+
+## Link jadwal pada ClickUp
+
+![foto](https://sharing.clickup.com/90181791691/l/h/6-901812249375-1/e882bd05d409d51)
