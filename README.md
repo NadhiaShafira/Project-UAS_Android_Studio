@@ -101,13 +101,35 @@ Fungsi:
 
 **2. Splash Screen**
 
-(Deteksi location, Bendera, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
+Fitur Splash Screen pada aplikasi Sleep Time berfungsi sebagai tampilan awal saat aplikasi dibuka. Pada halaman ini, aplikasi secara otomatis mendeteksi lokasi / bahasa perangkat pengguna, lalu menyesuaikan tampilan salam (welcome text) sesuai dengan wilayah tersebut.
+
+**Cara Kerja Fitur:**
+
+Aplikasi membaca pengaturan bahasa / lokasi sistem pada perangkat.
+
+Berdasarkan lokasi tersebut, aplikasi akan:
+
+- Menampilkan bendera negara
+
+- Menampilkan nama bahasa
+
+- Mengubah teks “Welcome / Selamat Datang” sesuai bahasa pengguna
+
+**Contoh Implementasi:**
+
+**🇮🇩 Indonesia → Selamat Datang**
 
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/6a283afdce0bdecd844db30b8b32f4502eed9036/pict_project/Splash_Indonesia.png)
 
+**🇺🇸 Amerika Serikat → Welcome**
+
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/739fbe843e8880beca9a61ea99a7d0eb32015486/pict_project/Splash_Amerika.png)
 
+**🇯🇵 Jepang → ようこそ**
+
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/71aa9f8502c3725322d12f85433e105058fed81e/pict_project/Splash_Jepang.png)
+
+**🇰🇷 Korea → 환영합니다**
 
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/26bf634d7825977bd0989a2b71e5ec3284a9c4e3/pict_project/Splash_Korea.png)
 
