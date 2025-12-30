@@ -107,7 +107,7 @@ Fungsi:
 
 ![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/739fbe843e8880beca9a61ea99a7d0eb32015486/pict_project/Splash_Amerika.png)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/71aa9f8502c3725322d12f85433e105058fed81e/pict_project/Splash_Jepang.png)
 
 ![foto]()
 
