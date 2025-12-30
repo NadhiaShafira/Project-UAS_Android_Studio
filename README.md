@@ -21,7 +21,7 @@
 
 
 
-# 1. Halaman Utama (Home / Splash Screen)
+**1. Halaman Utama (Home / Splash Screen)** 
 
 - Pada halaman awal, aplikasi menampilkan:
 
@@ -33,7 +33,7 @@
 
 Fungsi halaman ini adalah sebagai halaman pembuka sebelum pengguna masuk ke fitur utama aplikasi.
 
-# 2. Halaman Selamat Datang
+**2. Halaman Selamat Datang**
 
 Halaman ini berisi teks “Selamat Datang” sebagai transisi awal pengguna sebelum menggunakan fitur aplikasi.
 
@@ -43,7 +43,7 @@ Fungsi:
 
 - Mengarahkan pengguna ke menu selanjutnya
 
-# 3. Fitur Pengingat Tidur
+**3. Fitur Pengingat Tidur**
 
 Pada halaman ini, pengguna akan melihat:
 
@@ -61,7 +61,7 @@ Fungsi utama:
 
 - Memberi notifikasi ketika waktu tidur telah tiba
 
-# 4. Fitur Jadwal Tidur
+**4. Fitur Jadwal Tidur**
 
 Halaman ini digunakan untuk mengatur jam tidur dan jam bangun.
 
@@ -79,7 +79,7 @@ Fungsi:
 
 - Data waktu ini akan digunakan sebagai acuan pengingat tidur
 
-# 5. Halaman Proses Tidur / Status Tidur
+**5. Halaman Proses Tidur / Status Tidur**
 
 Setelah jadwal ditentukan dan tombol mulai ditekan, aplikasi menampilkan:
 
