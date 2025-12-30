@@ -103,9 +103,17 @@ Fungsi:
 
 (Deteksi location, Bendera, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
 
-**3. Mockup Project**
+![foto]()
 
 ![foto]()
+
+![foto]()
+
+![foto]()
+
+**3. Mockup Project**
+
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/487339bafe2b43ee60bb1d8780d7f9560d0abe76/pict_project/MOCKUP.png)
 
 **4. UI (User Interface) Project**
 
