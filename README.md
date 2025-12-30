@@ -129,4 +129,4 @@ Fungsi:
 
 ## Link jadwal pada ClickUp
 
-![foto](https://sharing.clickup.com/90181791691/l/h/6-901812249375-1/e882bd05d409d51)
+![Klik ini untuk cek jadwal di board ClickUp](https://sharing.clickup.com/90181791691/l/h/6-901812249375-1/e882bd05d409d51)
