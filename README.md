@@ -19,7 +19,7 @@
 
 **1. StoryBoard**
 
-
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/28742c21389063a9e837efd4e6f6c7cd43270803/pict_project/StoryBoard.jpg)
 
 **1. Halaman Utama (Home / Splash Screen)** 
 
