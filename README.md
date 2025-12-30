@@ -103,7 +103,7 @@ Fungsi:
 
 (Deteksi location, Bendera, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
 
-![foto]()
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/6a283afdce0bdecd844db30b8b32f4502eed9036/pict_project/Splash_Indonesia.png)
 
 ![foto]()
 
