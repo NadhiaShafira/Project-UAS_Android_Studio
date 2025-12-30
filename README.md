@@ -116,7 +116,8 @@ Fungsi:
 **6. Implementasi di Android Studio**
 
 **7. Membuat notifikasi di firebase**
-![foto]()
+
+![foto](https://github.com/NadhiaShafira/Project-UAS_Android_Studio/blob/598f003521282a71fa61ee0519511fd2c6818f36/pict_project/NOTIFIKASI.jpeg)
 
 ## Link jadwal pada ClickUp
 
